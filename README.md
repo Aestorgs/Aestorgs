@@ -29,7 +29,7 @@ j'aime  la  sport
 
 <img src="https://camo.githubusercontent.com/194ae9b0be9bfd4caedab16de320d3987f4c144112461590a206262d21eb769b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="Code Visual Studio" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;">
 
-
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
 ##  :label:Pinned Repositories  
 <a href="https://github.com/dylanbourdais/COURS-">
