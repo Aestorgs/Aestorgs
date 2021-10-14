@@ -31,6 +31,9 @@ j'aime  la  sport
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" height="40" style="vertical-align:top; margin:4px">
+
+
 ##  :label:Pinned Repositories  
 <a href="https://github.com/dylanbourdais/COURS-">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dylanbourdais&repo=COURS-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
