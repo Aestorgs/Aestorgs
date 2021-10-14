@@ -35,4 +35,8 @@ j'aime  le jeu  video :joystick:
 </a>
 
 
+##  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanbourdais&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanbourdais&show_icons=true&theme=tokyonight)
+
 
