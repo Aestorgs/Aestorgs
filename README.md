@@ -1,7 +1,5 @@
 # Bonjour bienvenue sur ma page :raised_hand_with_fingers_splayed:	
 
-![dylanbourdais GitHub Banner](./assets/GitHubHeader.png)
-
 je m'apelle bourdais dylan j'ai 22 ans et je suis nouveau sur github en formation backend pour devenir devellopeur backend 
 
 et j'ai deja un diplome integrateur web.
