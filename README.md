@@ -2,7 +2,7 @@
 
 je m'apelle bourdais dylan j'ai 22 ans et je suis nouveau sur github en formation backend pour devenir devellopeur backend 
 
-et j'ai deja un diplome integrateur web.
+et j'ai deja un diplome  dans web
 
 je suis une perssonne dynamique , optimiste , avenant , l'ecoute , motivé  , apprendre  de nouvelle  choses , preuve autonomie , rigeur ,
 
