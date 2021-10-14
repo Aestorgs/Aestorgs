@@ -10,6 +10,8 @@ j'aime  le  code  :dark_sunglasses: :desktop_computer: :keyboard: :computer_mous
 
 j'aime  le jeu  video :joystick:  
 
+j'aime  la  musculation  
+
 ![Visits Badge](https://badges.pufler.dev/visits/dylanbourdais/dylanbourdais) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dylanbourdais/)
 
 
@@ -35,7 +37,7 @@ j'aime  le jeu  video :joystick:
 </a>
 
 
-##  
+##  GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanbourdais&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanbourdais&show_icons=true&theme=tokyonight)
 
