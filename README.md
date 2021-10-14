@@ -37,8 +37,7 @@ j'aime  la  sport
 </a>
 
 
-##  GitHub Stats
-
+##  :artificial_satellite: GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanbourdais&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanbourdais&show_icons=true&theme=tokyonight)
 
 
