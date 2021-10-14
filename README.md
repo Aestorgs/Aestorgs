@@ -6,7 +6,11 @@ je m'apelle bourdais dylan j'ai 22 ans et je suis nouveau sur github en formatio
 
 et j'ai deja un diplome integrateur web.
 
-je suis une perssonne dynamique , optimiste , avenant , l'ecoute , 
+je suis une perssonne dynamique , optimiste , avenant , l'ecoute , motivé  , apprendre  de nouvelle  choses , preuve autonomie , rigeur ,
+
+j'aime  le  code  :dark_sunglasses: :desktop_computer: :keyboard: :computer_mouse:
+
+j'aime  le jeu  video :joystick:  
 
 ![Visits Badge](https://badges.pufler.dev/visits/dylanbourdais/dylanbourdais) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dylanbourdais/)
 
