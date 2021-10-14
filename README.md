@@ -1,16 +1,18 @@
-### Hi there 👋
+# BONJOUR BIENVENUE SUR MA PAGE  👋
 
-<!--
-**dylanbourdais/dylanbourdais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![dylanbourdais GitHub Banner](./assets/GitHubHeader.png)
 
-Here are some ideas to get you started:
+##### je m'apelle bourdais dylan j'ai 22 ans et je suis nouveau sur github en formation backend 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# FORMATION 
+
+
+
+
+![Visits Badge](https://badges.pufler.dev/visits/dylanbourdais/dylanbourdais) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dylanbourdais/)
+
+
+
+<a href="https://github.com/dylanbourdais/COURS-">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dylanbourdais&repo=COURS-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
