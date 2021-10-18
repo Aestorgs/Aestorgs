@@ -10,7 +10,7 @@ j'aime  le  code  :dark_sunglasses: :desktop_computer: :keyboard: :computer_mous
 
 j'aime  le jeu  video :joystick:  
 
-j'aime  la  sport  :stadium:
+j'aime  le  sporte  🏟️
 
 
 ![Visits Badge](https://badges.pufler.dev/visits/dylanbourdais/dylanbourdais) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://fr.linkedin.com/in/dylan-bourdais-9b89b21a0)
