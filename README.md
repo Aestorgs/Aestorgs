@@ -1,8 +1,8 @@
 # Bonjour bienvenue sur ma page :raised_hand_with_fingers_splayed:	
 
-je m'apelle bourdais dylan j'ai 23 ans et je suis nouveau sur github en formation backend pour devenir devellopeur backend 
+je suis nouveau sur github en formation CDA pour devenir CDA
 
-et j'ai deja un diplome  dans web
+et j'ai deja un diplome intégrateur web et Backend
 
 je suis une perssonne dynamique , optimiste , avenant , l'ecoute , motivé  , apprendre  de nouvelle  choses , preuve autonomie , rigeur ,
 
