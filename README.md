@@ -1,6 +1,6 @@
 # Bonjour bienvenue sur ma page :raised_hand_with_fingers_splayed:	
 
-je suis nouveau sur github en formation CDA pour devenir CDA
+je suis en formation CDA pour devenir CDA
 
 et j'ai deja un diplome intégrateur web et Backend
 
