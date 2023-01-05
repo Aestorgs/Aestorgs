@@ -7,9 +7,7 @@ et j'ai deja un diplome intégrateur web et Backend
 je suis une perssonne dynamique , optimiste , avenant , l'ecoute , motivé  , apprendre  de nouvelle  choses , preuve autonomie , rigeur ,
 
 j'aime  le  code  :dark_sunglasses: :desktop_computer: :keyboard: :computer_mouse:
-
-j'aime  le jeu  video :joystick:  
-
+ 
 j'aime  le  sporte  🏟️
 
 
