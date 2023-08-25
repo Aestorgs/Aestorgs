@@ -10,7 +10,7 @@ J'aime la programmation 🕶️ 🖥️ ⌨️ 🖱️
 
 J'aime le sport 🏋️‍♀️
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://fr.linkedin.com/in/dylan-bourdais-9b89b21a0)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](http://linkedin.com/in/dylan-r-9b89b21a0)
 
 
 ##  :classical_building: Compétence
