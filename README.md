@@ -1,15 +1,14 @@
 # Bonjour bienvenue sur ma page :raised_hand_with_fingers_splayed:	
 
-je suis en formation CDA pour devenir CDA
+Actuellement en recherche d’emploi 
 
-et j'ai deja un diplome intégrateur web et Backend
+J'ai un diplôme de  intégrateur web , développeur backend, concepteur développer d’applications 
 
-je suis une perssonne dynamique , optimiste , avenant , l'ecoute , motivé  , apprendre  de nouvelle  choses , preuve autonomie , rigeur ,
+Je suis une personne dynamique ,optimiste , avenant , l'écoute , motivé , apprendre de nouvelles choses , preuve autonomie , rigueur ,
 
-j'aime coder  :dark_sunglasses: :desktop_computer: :keyboard: :computer_mouse:
- 
-j'aime  le  sporte  🏟️
+J'aime programmation 🕶️ 🖥️ ⌨️ 🖱️
 
+J'aime le sport 🏋️‍♀️
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://fr.linkedin.com/in/dylan-bourdais-9b89b21a0)
 
