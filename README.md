@@ -6,7 +6,7 @@ J'ai un diplôme de  intégrateur web , développeur backend, concepteur dévelo
 
 Je suis une personne dynamique ,optimiste , avenant , l'écoute , motivé , apprendre de nouvelles choses , preuve autonomie , rigueur ,
 
-J'aime programmation 🕶️ 🖥️ ⌨️ 🖱️
+J'aime la programmation 🕶️ 🖥️ ⌨️ 🖱️
 
 J'aime le sport 🏋️‍♀️
 
