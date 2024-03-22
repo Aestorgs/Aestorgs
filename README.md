@@ -43,6 +43,21 @@ J'aime le sport 🏋️‍♀️
 
 [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)]()
 
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&amp;logo=postgresql" alt="PostgreSQL" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/-SQL-003B57?style=flat" alt="SQL" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&amp;logo=nestjs" alt="NestJS" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/-Jest-944058?style=flat&amp;logo=jest" alt="Jest" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&amp;logo=react" alt="React Native" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&amp;logo=node.js&amp;logoColor=white" alt="Node.js" style="max-width: 100%;">
+
+
 
 ##  :label:Pinned Repositories  
 <a href="https://github.com/Aestorgs/CDA">
