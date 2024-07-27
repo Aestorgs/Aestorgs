@@ -1,7 +1,5 @@
 # Bonjour bienvenue sur ma page :raised_hand_with_fingers_splayed:	
 
-Actuellement en recherche d’emploi 
-
 J'ai un diplôme de  intégrateur web , développeur backend, concepteur développer d’applications 
 
 Je suis une personne dynamique ,optimiste , avenant , l'écoute , motivé , apprendre de nouvelles choses , preuve autonomie , rigueur ,
@@ -9,9 +7,6 @@ Je suis une personne dynamique ,optimiste , avenant , l'écoute , motivé , appr
 J'aime la programmation 🕶️ 🖥️ ⌨️ 🖱️
 
 J'aime le sport 🏋️‍♀️
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](http://linkedin.com/in/dylan-r-9b89b21a0)
-
 
 ##  :classical_building: Compétence
 
